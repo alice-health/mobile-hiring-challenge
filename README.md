@@ -17,9 +17,7 @@ Para o MVP nosso time de design construiu os seguintes exemplos
   
 
 | Estado inicial | Exemplo de busca | Animação de inserção |
-
 |---|---|---|
-
 | <img width=250 src="images/image3.png"/> | <img width=250 src="images/image1.png"/> | <img width=250 src="images/image2.gif"/> |
 
   
